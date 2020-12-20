@@ -1,0 +1,2 @@
+(this.csbJsonP=this.csbJsonP||[]).push([[81],{"../../node_modules/worker-loader/dist/cjs.js?publicPath=/&name=client-ext-host-worker.[hash:8].worker.js!./src/app/overmind/effects/vscode/extensionHostWorker/bootstrappers/client-ext-host.ts":function(e,s){e.exports=function(){return new Worker("/client-ext-host-worker.6505052e.worker.js")}}}]);
+//# sourceMappingURL=81.baf85bb78.chunk.js.map
